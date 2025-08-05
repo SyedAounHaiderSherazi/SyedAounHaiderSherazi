@@ -32,7 +32,7 @@
 
 ### 🚀 About Me
 
-- 💡 2nd-year CS student at FAST NUCES, Lahore  
+- 💡 3nd-year CS student at FAST NUCES, Lahore  
 - 🧠 C++, Data Structures & OOP wizard  
 - 🌐 Web Developer (HTML, CSS, JavaScript, React, Bootstrap)  
 - 🛡️ Currently pursuing: **Google Cybersecurity Professional Certificate**  
@@ -48,7 +48,6 @@
 - 🎓 8 A*s in O-Levels | 3 As in A-Levels | 94th percentile SAT (1400/1600)
 - 🥇 Gold Medalist - Cambridge International Exams
 - 💰 Full Merit Scholarship - Beaconhouse
-- 🏅 OOP Score: 86/90 | Strong command in Software Engineering concepts
 - 👥 9000+ LinkedIn followers & growing professional network
 
 ---
