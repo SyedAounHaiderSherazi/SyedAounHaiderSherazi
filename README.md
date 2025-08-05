@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Syed Aoun Haider Sherazi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Machine+Learning+Specialized+From+Stanford;Deep+Learning+Enthusiast;Web+Developer;C%2B%2B+Programmer;Cybersecurity+Learner;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Stanford+Certified+ML+Specialist;Deep+Learning+Enthusiast;Web+Developer;C%2B%2B+Programmer;Cybersecurity+Learner;" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" height="150">
