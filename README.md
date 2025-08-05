@@ -13,7 +13,7 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://leetcode.com/SyedAounHaider/" target="_blank">
+  <a href="https://leetcode.com/u/aounhaider2005/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
   </a>
   <a href="mailto:aounhaider2005@gmail.com">
