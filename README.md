@@ -69,7 +69,7 @@
 
 ### 📚 Certifications
 
-- 🎓 [Google Cybersecurity Professional Certificate (In Progress)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- 🎓 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - ✅ Machine Learning Specialization – **Stanford + DeepLearning.ai**
 - 📸 Computer Vision & Image Processing – MachineLearning.org.in
 - 📦 Edge AI for IoT Developers – MachineLearning.org.in
